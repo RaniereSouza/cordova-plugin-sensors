@@ -9,9 +9,9 @@
     <engine name="cordova" version=">=3.4.0"/>
   </engines>
 
-  <asset src="www/sensors.js" target="js/sensors.js"/>
+  <asset src="www/Sensors.js" target="js/sensors.js"/>
 
-  <js-module src="www/sensors.js" name="sensors">
+  <js-module src="www/Sensors.js" name="sensors">
     <clobbers target="sensors" />
   </js-module>
 
